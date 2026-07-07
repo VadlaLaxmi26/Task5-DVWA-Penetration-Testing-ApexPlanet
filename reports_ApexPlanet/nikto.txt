@@ -1,0 +1,13 @@
+Nikto Scan Report
+Target: http://192.168.56.102
+
+Command:
+nikto -h http://192.168.56.102
+
+Summary:
+Apache server detected.
+Review server configuration, headers and exposed content.
+Use findings together with manual verification.
+
+Conclusion:
+Useful reconnaissance information collected.

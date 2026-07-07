@@ -1,0 +1,13 @@
+Nmap Scan Report
+Target: 192.168.56.102
+
+Command:
+nmap -A 192.168.56.102
+
+Results:
+Host is up.
+80/tcp open http Apache httpd 2.4.68
+OS: Linux (expected)
+
+Conclusion:
+HTTP service discovered and ready for web application testing.
